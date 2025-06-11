@@ -35,6 +35,6 @@ python main.py
 [![2.png](https://i.postimg.cc/RhVDdX3y/2.png)](https://postimg.cc/jwmcd644)
 ## Author :
 
-[Divya Rao](https://github.com/dsrao711)
+Harshit Vyas
 
 
